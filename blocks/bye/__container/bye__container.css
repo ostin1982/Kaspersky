@@ -1,0 +1,6 @@
+.bye__container {
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 2fr 1fr 2fr;
+    grid-template-rows: 0.3fr 1fr;
+}

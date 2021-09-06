@@ -1,0 +1,12 @@
+.header__list_wrapping {
+    display: block;
+    padding: 8px 9px 8px 8px;
+    text-decoration: none;
+    color: #1D1D1B;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.header__list_wrapping:first-child {
+    padding: 18px 9px 8px 8px;
+}

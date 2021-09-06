@@ -1,0 +1,9 @@
+.header {
+    position: absolute;
+    max-width: 1440px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(29, 29, 27, 0.4);
+    z-index: 10;
+}

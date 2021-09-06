@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'KasperskySans';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./KasperskySans-Regular.woff2') format("truetype");
+}

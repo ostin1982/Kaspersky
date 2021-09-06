@@ -1,0 +1,9 @@
+.advertisement__subtitle {
+    font-size: 32px;
+    line-height: 36px;
+    max-width: 538px;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0 50px 0;
+    opacity: 0.8;
+}

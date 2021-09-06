@@ -1,0 +1,11 @@
+.advertisement__container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-image: url(../../../images/background.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 768px;
+}

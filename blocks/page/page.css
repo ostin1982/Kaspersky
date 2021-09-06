@@ -1,0 +1,10 @@
+.page {
+    max-width: 1440px;
+    min-width: 360px;
+    font-family: 'KasperskySans', sans-serif;   
+    color: #FFFFFF;
+    background-color: #1D1D1B;
+    padding: 0;
+    margin: 0 auto;
+    text-rendering: optimizeLegibility; 
+}

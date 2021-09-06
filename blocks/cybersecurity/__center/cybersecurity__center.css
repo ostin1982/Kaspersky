@@ -1,0 +1,13 @@
+.cybersecurity__center {
+    position: absolute;
+    left: 44%;
+    width: 163px;
+    height: 504px;
+    background: linear-gradient(144.23deg, rgba(126, 255, 51, 0.4) 0%, rgba(35, 209, 174, 0.4) 79.06%), #23D1AE;
+    -webkit-transform: skewX(-9deg); 
+	-moz-transform: skewX(-9deg); 
+	-ms-transform: skewX(-9deg); 
+	-o-transform: skewX(-9deg); 
+	transform: skewX(-9deg); 
+    z-index: 10;
+}

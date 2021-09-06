@@ -1,0 +1,10 @@
+.header__lng_link {
+    position: relative;
+    color: #1D1D1B;
+    background-color: #F2F2F2;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 8px;
+
+}

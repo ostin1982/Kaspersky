@@ -1,0 +1,8 @@
+.bye__container-img {
+    padding: 4px 16px;
+    border-right: 1px solid rgba(102, 102, 102, 0.4);
+}
+
+.bye__container-img:last-child {
+    border-right: none;
+}

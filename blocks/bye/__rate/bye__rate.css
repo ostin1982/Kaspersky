@@ -1,0 +1,7 @@
+.bye__rate {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #15C0A1;
+}

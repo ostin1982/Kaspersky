@@ -1,0 +1,10 @@
+.cybersecurity__right {
+    position: relative;
+    background: 
+    linear-gradient(100.56deg, rgba(29, 29, 27, 0.6) 0%, #1D1D1B 59.08%), 
+    linear-gradient(180deg, rgba(29, 29, 27, 0.6) 0%, #1D1D1B 100%), 
+    linear-gradient(127.55deg, #00A88E 48.95%, rgba(1, 50, 35, 0.6) 98.47%);
+    padding: 0;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    padding: 55px 0 0 0;
+}

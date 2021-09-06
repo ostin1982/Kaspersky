@@ -1,0 +1,10 @@
+.cybersecurity__block-date {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cybersecurity__block-date:last-child {
+    margin: 16px 0 0 0;
+}

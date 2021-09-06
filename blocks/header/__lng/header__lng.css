@@ -1,0 +1,10 @@
+.header__lng {
+    position: relative;
+    margin: 13px;
+}
+
+.header__lng:hover .header__list {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+}

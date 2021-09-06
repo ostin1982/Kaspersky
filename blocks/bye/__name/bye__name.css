@@ -1,0 +1,9 @@
+.bye__name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 15px 0;
+    background: linear-gradient(266.16deg, rgba(0, 168, 142, 0.4) 53.15%, rgba(126, 255, 51, 0.4) 93.71%), #23D1AE;
+}
